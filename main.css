@@ -4,8 +4,13 @@
     display: flex;
 }
   
-.column {
+.column1 {
     flex: 50%;
+    padding: 5px;
+}
+
+.column2 {
+    flex: 33%;
     padding: 5px;
 }
 
@@ -16,7 +21,7 @@
 
 .main_block {
     font-family: Papyrus, Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .table, .th, .td {
@@ -30,4 +35,8 @@
 
 .body {
     background-color: yellow;
+}
+
+.caption{
+    font-size: 10px;
 }

@@ -17,6 +17,7 @@
 .img1 {
     width: 80%;
     height: auto;
+    display: flex;
 }
 
 .main_block {
